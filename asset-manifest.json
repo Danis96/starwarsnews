@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/starwarsnews/static/css/main.1aed7751.chunk.css",
-    "main.js": "/starwarsnews/static/js/main.d7a9c500.chunk.js",
-    "main.js.map": "/starwarsnews/static/js/main.d7a9c500.chunk.js.map",
+    "main.js": "/starwarsnews/static/js/main.d9cd4ae1.chunk.js",
+    "main.js.map": "/starwarsnews/static/js/main.d9cd4ae1.chunk.js.map",
     "runtime~main.js": "/starwarsnews/static/js/runtime~main.7e65a84d.js",
     "runtime~main.js.map": "/starwarsnews/static/js/runtime~main.7e65a84d.js.map",
     "static/js/2.3cb9c6a8.chunk.js": "/starwarsnews/static/js/2.3cb9c6a8.chunk.js",
     "static/js/2.3cb9c6a8.chunk.js.map": "/starwarsnews/static/js/2.3cb9c6a8.chunk.js.map",
     "index.html": "/starwarsnews/index.html",
-    "precache-manifest.7718ad4ab81046e7ae8c03deca007c55.js": "/starwarsnews/precache-manifest.7718ad4ab81046e7ae8c03deca007c55.js",
+    "precache-manifest.9ba68660c4e9a10c915f06c4138e8fef.js": "/starwarsnews/precache-manifest.9ba68660c4e9a10c915f06c4138e8fef.js",
     "service-worker.js": "/starwarsnews/service-worker.js",
     "static/css/main.1aed7751.chunk.css.map": "/starwarsnews/static/css/main.1aed7751.chunk.css.map"
   }
